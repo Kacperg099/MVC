@@ -210,3 +210,6 @@ __marimo__/
 **/bin/
 **/obj/
 .vs/
+*.db
+*.db-shm
+*.db-wal
